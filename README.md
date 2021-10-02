@@ -6,7 +6,10 @@ The purpose of Unit one is for us students to figure out how the IT1025 course i
 # # Questions Responses
 
 
+## Informative System Components 
 
+## GiftHub 
+### Client - Server Achitecture 
 
 
 
