@@ -3,14 +3,10 @@
 ## Executive Summary
 The purpose of Unit one is for us students to figure out how the IT1025 course is designed and set up for us. In the beginning we were introduced to Gifthub and signing up for an account. We learned how to make a Template and make a branch. After following all the steps that were provided we moved onto learning what screen capture is which in other words is just taking a screen shot of your Windows,Mac or Chromebook help screen and upload it onto Gifthub.  
 
-# # Questions Responses
-
-
-## Informative System Components 
-
-## GiftHub 
-### Client - Server Achitecture 
-
+## 3 Question Responses
+1. What is application software? It's a software that does specific tasks for a user. For an example Microsoft or Excelare application software.
+2. What is the definition of a process? It's a series of progressive and interdependent steps by which an end is attained.
+3. What roles do people play in information systems? People play as the programmer, A computer operator and a Systems analyst.
 
 
 ## Conclusion
