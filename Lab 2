@@ -26,3 +26,21 @@ SSD hard drive is different from a traditional hard drive is because the SSd har
 
 Increasing the RAM makes a computer run faster because the increase the speed of operation of the computer.The more of the program instructions can be loaded,the more there is the less there is needed To keep swapping and there is less need to keep swapping data in and out to the swap file on the hard disk drive.
 The difference between 64 and 32 bit data paths is 64 bits you can transfer 64 bits of data at a time. 32 bits can transfer 32 bits at a time so the 64 bits is faster then the 32 bits.
+
+## ALU and the Control Unit 
+
+The control unit recieves its orders from RAM and breaks down its comands for the other compnents. ALU performs all the mathmatical operations inside the CPU.
+
+## CPU, Input and Output
+
+If i were to pump gas into my car first when i press the button for the type of gas i want the computer chip that's in the tank let's the CPU know that I want this specific gas. It inputs the which gas i want. I take the nozzle and press down on the handle and the system outputs the gas into my car.
+
+## Logic Gates 
+
+A truth table is a output like one or zero and for every posible inputs. A AND gate truth table is compared to a OR gate because AND If both inputs are switched on  the output will be 1 as well. Otherwise the output will be 0. An OR OR logic gate works this way with two electrical inputs. If either input is switched on the output will be 1 as well. Otherwise the output will be 0.
+
+## IEEE- Ethically Aligned Design.
+
+The purpose of IEEE and their focus on ethics is to make reccomendations for educational programs to promote the ethical behavior of members, staff and other acivities. 
+
+
