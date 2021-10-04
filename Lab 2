@@ -1,0 +1,28 @@
+## Jalen Bass 10/3/21
+
+## Study Questions 
+
+1. Write your own description of what the term information systems hardware means. My description of the term information systems hardware is it's made u[ of components that's digital.
+2. What has lead to the shift toward mobility in computing? PC's, Smartphones and laptops.
+3. What is the impact of Moore’s Law on the various hardware components described in this chapter? Moore's law is being described as it will be doubling every two years and it's circuits will not be able to be reduced any further then what they already are.
+4. Write a one page summary of one of the items linked to in the “Integrated Computing” section. Iot's network has around about 1 billion devices on it's network and allows electronic's to connect to the internet to share data.
+5. Explain why the personal computer is now considered a commodity. Personal compters is now a commodity because of there pricing and their manufacturers. 
+6. The CPU can also be thought of as the brain's of the computer.
+7. List the units of measure for data storage in increasing order from smallest to largest, kilobyte to yottabyte. Kilobyte, Megabyte, Gigabyte, Terabyte, Petabyte, Exabyte, Zettabyte, and yottabyte.
+8. What is the bus of a computer? The Motherboard
+9. Name two differences between RAM and a hard disk. RAM is used for working the memory and hard disk is used for when you turn off your computer the data is still on your disk ready for you when you turn on your computer.
+10.What are the advantages of solid-state drives over hard disks?  Solid State Drives (SSD) advatage over hard disks is it lasts much longer then the hard disks, it' more expensive , more durable and more efficient. 
+
+## Latency and Transfer Rates
+
+The difference between latency and transfer rates is latency is the average time for the sector to be accessed to rotate onto position. Transfer Rates is the speed of which the data is transferred to a disk media and records it's frequency.
+
+## Solid State vc. Hard Drives 
+
+SSD hard drive is different from a traditional hard drive is because the SSd hard drive's speed is compared to the speed of light so it's way faster and has no latency for when you transfer data over. Traditional hard drive's you would have to wait for it to start spinning and the head of it must be in the correct place on the disk.
+
+
+## Random Access Memory 
+
+Increasing the RAM makes a computer run faster because the increase the speed of operation of the computer.The more of the program instructions can be loaded,the more there is the less there is needed To keep swapping and there is less need to keep swapping data in and out to the swap file on the hard disk drive.
+The difference between 64 and 32 bit data paths is 64 bits you can transfer 64 bits of data at a time. 32 bits can transfer 32 bits at a time so the 64 bits is faster then the 32 bits.
